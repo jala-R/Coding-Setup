@@ -16,7 +16,7 @@ public class Main {
     //---------------end--------------
     
     public static void solve(){
-        op.println("testing 101");
+        op.println("running");
     }
     
     
